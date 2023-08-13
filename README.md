@@ -1,4 +1,6 @@
 # hw1_git
 
-# git diff commit1 commit2
+## git diff _commit1_ _commit2_
+
+## git revert _commit_
 
